@@ -4,8 +4,6 @@ from sam_lie
 
 Compatible with Lua 5.0 and 5.1.
 
-=================================
-
 # Example usage:
 
 
