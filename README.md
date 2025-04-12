@@ -1,8 +1,8 @@
 # Formatting Numbers
 
--- from sam_lie
+from sam_lie
 
--- Compatible with Lua 5.0 and 5.1.
+Compatible with Lua 5.0 and 5.1.
 
 ---============================================================
 
